@@ -5,10 +5,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jbyers2022.https://github.com/jbyers2022)
-
 </p>
-<div size='20px'> Hi! My name is Jackson Byers. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hello! My name is Jackson Byers. I am a Cum Laude graduate of Missouri Western State University. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
